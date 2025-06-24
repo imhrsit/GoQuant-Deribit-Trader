@@ -1,0 +1,16 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "access_token": "1750736573644.1e2VIW95.nZMzzRWEZY-ojkidcBFgQ364xwteCwioWezTHk_jO2qiNzcaHEMP4BfKezo5u1fGdvnzYrNa6HzdobtvD0lZmRajZmAtN4D9N7ni-l6OJQoOApg-zuW9ntDGczDEnfKR_MFex2xbZi4ncBQqRGs4U0yxwJKU_vQbU8hm-4f180ctvGuT9juVo_fTzOfF0wOi8hYusLtjySlEw9XylCmvbeJbrPWD",
+        "enabled_features": [],
+        "expires_in": 900,
+        "refresh_token": "1751340473644.1V_9Afh0.UtEs95UCgCZtDcXtgVZe8CaSFc8rJBW5_l352i3Y1mAbTTZKajiETRcThtngs67fuQZEyjMguL6v3OAaDqwGYKb_T36lNs5R8yX6auBYbwBQExE6njIYkMw5zz7MrhsLLHw988SSapRNMExY0Glxs_esd8Tu766_uPQ6TeY4moLY5cBqygCVGxkb3jXQcZJJj6OeZcMiYwmGag0FzZkQA02wa6Q",
+        "scope": "name:GoQuant session:rest-zZeuOLve02Q= mainaccount",
+        "sid": "68793.qsgHej8g.rest-zZeuOLve02Q=",
+        "token_type": "bearer"
+    },
+    "testnet": true,
+    "usDiff": 396,
+    "usIn": 1750735673644091,
+    "usOut": 1750735673644487
+}
