@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/client.dir/client.cpp.o -o client   -L/opt/homebrew/Cellar/libwebsockets/4.3.5/lib  -Wl,-rpath,/opt/homebrew/Cellar/libwebsockets/4.3.5/lib -lwebsockets /opt/homebrew/Cellar/openssl@3/3.5.0/lib/libssl.dylib /opt/homebrew/Cellar/openssl@3/3.5.0/lib/libcrypto.dylib
