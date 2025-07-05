@@ -3,7 +3,6 @@
 #include <json/json.h>
 #include <string>
 #include "helper.h"
-#pragma warning(disable : 4996)
 
 using namespace std;
 

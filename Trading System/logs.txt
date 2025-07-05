@@ -1,0 +1,46 @@
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "access_token": "1751708646566.1eznPYLp.MybRKIfgZhEvE_N8vsH5thl_g3UEj2RQZdLX20JU6cdsG98iY7ERExPntPsqYLnlSxtTMRz2LIfF1d4g0W38eNergujjZaJc7sIze0_s25ecx_DdnzoGuUO7T4YL_MTqDI-PA0UVZcOqaVhxK9bEd0muzjE6gtq5QNuSh6sbY9YscoIF0iji0V0_zmj5fwMia_x5rMxUKGq6MLmMFfFXTrWUtHc9",
+        "enabled_features": [],
+        "expires_in": 899,
+        "refresh_token": "1752312546566.1fhTt3C6.w3RGwfeoO7_LAWluwGsossHawXtaEBngZC_0y8ZwOlMGQuvuQph_mnjdOrviaNbeUdJdZ5BFEZeAWgUkE16y9Rc90rSkRApNV1Jbw6Aii11wsdSJyAvmXnLtmH9EjXTVlAhGod4I9KOQOGkxUtlP5-KopOJfTVvCGyMuXFD4W4ZWTINaK7GUuixUzivctrOCAPnmDLTCb2MpKQWAQf9FvOnYNdQ",
+        "scope": "name:GoQuant session:rest-BG5Bt7QhKpQ= mainaccount",
+        "sid": "68793.qsgHej8g.rest-BG5Bt7QhKpQ=",
+        "token_type": "bearer"
+    },
+    "testnet": true,
+    "usDiff": 371,
+    "usIn": 1751707746566730,
+    "usOut": 1751707746567101
+}
+{
+    "error": {
+        "code": 13021,
+        "data": {
+            "reason": "required scope trade:read_write"
+        },
+        "message": "forbidden"
+    },
+    "jsonrpc": "2.0",
+    "testnet": true,
+    "usDiff": 208,
+    "usIn": 1751707796281729,
+    "usOut": 1751707796281937
+}
+{
+    "jsonrpc": "2.0",
+    "result": {
+        "access_token": "1751708719013.1Vt0CRi0.cLwfVfVXx1MlTRSXbuAg_kq7Ue8bXvS4CCWc31gTGY4pjQ9mdpJsgVjCj0Y1G3WVTdh1_r6QRPSCNOyRE-m4kQNbyxwBUdyW2zZL-YkiAPuJReYOuHIhZyE5n-9lJRzqbM1oRVcpe-0o5gSwH01SW2RiZ03LlsXx6yBxDanHysiibf4EhvXMASbw2ZrT_WjgfJdXOUOadUxiuud-Olam632_7KNh",
+        "enabled_features": [],
+        "expires_in": 900,
+        "refresh_token": "1752312619013.1RXOR9wD.HtddigunakozInmpbpf7nu35C00fqTX-NUHpitTkAqinNNiB7rDYBNH6vTQlqt9FFrV5fMg_6smVL36HFhYuLnNwPOQsZuU857sDkmw9n680FyRpNbc6VerK8yeV_YXcuMdtf9bHw94GsF9FUeFyZ7lZHKlH-GOQlTRebZgwPxSxiiTJwyPcbftpw2dSjFjwCTJm1X4qdMQzitXDBoHRS6z1Qog",
+        "scope": "name:GoQuant session:rest-r0myuwofs68= mainaccount",
+        "sid": "68793.qsgHej8g.rest-r0myuwofs68=",
+        "token_type": "bearer"
+    },
+    "testnet": true,
+    "usDiff": 296,
+    "usIn": 1751707819013684,
+    "usOut": 1751707819013980
+}
